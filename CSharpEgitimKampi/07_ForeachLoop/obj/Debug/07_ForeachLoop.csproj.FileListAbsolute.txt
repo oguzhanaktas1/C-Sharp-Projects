@@ -1,0 +1,7 @@
+C:\Users\oguzz\Desktop\KODLAR\C#\Udemy Projeler - Murat Yücedağ\CSharpEgitimKampi\ForeachLoop\obj\Debug\07_ForeachLoop.csproj.AssemblyReference.cache
+C:\Users\oguzz\Desktop\KODLAR\C#\Udemy Projeler - Murat Yücedağ\CSharpEgitimKampi\ForeachLoop\obj\Debug\07_ForeachLoop.csproj.CoreCompileInputs.cache
+C:\Users\oguzz\Desktop\KODLAR\C#\Udemy Projeler - Murat Yücedağ\CSharpEgitimKampi\ForeachLoop\bin\Debug\ForeachLoop.exe.config
+C:\Users\oguzz\Desktop\KODLAR\C#\Udemy Projeler - Murat Yücedağ\CSharpEgitimKampi\ForeachLoop\bin\Debug\ForeachLoop.exe
+C:\Users\oguzz\Desktop\KODLAR\C#\Udemy Projeler - Murat Yücedağ\CSharpEgitimKampi\ForeachLoop\bin\Debug\ForeachLoop.pdb
+C:\Users\oguzz\Desktop\KODLAR\C#\Udemy Projeler - Murat Yücedağ\CSharpEgitimKampi\ForeachLoop\obj\Debug\ForeachLoop.exe
+C:\Users\oguzz\Desktop\KODLAR\C#\Udemy Projeler - Murat Yücedağ\CSharpEgitimKampi\ForeachLoop\obj\Debug\ForeachLoop.pdb

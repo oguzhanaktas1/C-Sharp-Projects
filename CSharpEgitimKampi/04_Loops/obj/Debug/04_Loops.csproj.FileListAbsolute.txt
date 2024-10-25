@@ -1,0 +1,7 @@
+C:\Users\oguzz\Desktop\KODLAR\C#\Udemy Projeler - Murat Yücedağ\CSharpEgitimKampi\04_Loops\bin\Debug\04_Loops.exe.config
+C:\Users\oguzz\Desktop\KODLAR\C#\Udemy Projeler - Murat Yücedağ\CSharpEgitimKampi\04_Loops\bin\Debug\04_Loops.exe
+C:\Users\oguzz\Desktop\KODLAR\C#\Udemy Projeler - Murat Yücedağ\CSharpEgitimKampi\04_Loops\bin\Debug\04_Loops.pdb
+C:\Users\oguzz\Desktop\KODLAR\C#\Udemy Projeler - Murat Yücedağ\CSharpEgitimKampi\04_Loops\obj\Debug\04_Loops.csproj.AssemblyReference.cache
+C:\Users\oguzz\Desktop\KODLAR\C#\Udemy Projeler - Murat Yücedağ\CSharpEgitimKampi\04_Loops\obj\Debug\04_Loops.csproj.CoreCompileInputs.cache
+C:\Users\oguzz\Desktop\KODLAR\C#\Udemy Projeler - Murat Yücedağ\CSharpEgitimKampi\04_Loops\obj\Debug\04_Loops.exe
+C:\Users\oguzz\Desktop\KODLAR\C#\Udemy Projeler - Murat Yücedağ\CSharpEgitimKampi\04_Loops\obj\Debug\04_Loops.pdb

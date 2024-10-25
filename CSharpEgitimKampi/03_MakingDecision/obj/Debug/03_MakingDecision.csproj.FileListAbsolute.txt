@@ -1,0 +1,7 @@
+C:\Users\oguzz\Desktop\KODLAR\C#\Udemy Projeler - Murat Yücedağ\CSharpEgitimKampi\MakingDecision\bin\Debug\MakingDecision.exe.config
+C:\Users\oguzz\Desktop\KODLAR\C#\Udemy Projeler - Murat Yücedağ\CSharpEgitimKampi\MakingDecision\bin\Debug\MakingDecision.exe
+C:\Users\oguzz\Desktop\KODLAR\C#\Udemy Projeler - Murat Yücedağ\CSharpEgitimKampi\MakingDecision\bin\Debug\MakingDecision.pdb
+C:\Users\oguzz\Desktop\KODLAR\C#\Udemy Projeler - Murat Yücedağ\CSharpEgitimKampi\MakingDecision\obj\Debug\03_MakingDecision.csproj.AssemblyReference.cache
+C:\Users\oguzz\Desktop\KODLAR\C#\Udemy Projeler - Murat Yücedağ\CSharpEgitimKampi\MakingDecision\obj\Debug\03_MakingDecision.csproj.CoreCompileInputs.cache
+C:\Users\oguzz\Desktop\KODLAR\C#\Udemy Projeler - Murat Yücedağ\CSharpEgitimKampi\MakingDecision\obj\Debug\MakingDecision.exe
+C:\Users\oguzz\Desktop\KODLAR\C#\Udemy Projeler - Murat Yücedağ\CSharpEgitimKampi\MakingDecision\obj\Debug\MakingDecision.pdb
